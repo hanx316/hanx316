@@ -6,10 +6,16 @@ Here is Hanx, a self learning programer.
 
 ## 🔭 I’m currently focusing on
 
+Languages:
+
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡JavaScript / TypeScript
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡CSS
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Rust
+
+Frameworks & Tools:
+
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡React / Vue
 
 <!--
 **hanx316/hanx316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
